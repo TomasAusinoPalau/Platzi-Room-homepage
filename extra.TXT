@@ -1,0 +1,1 @@
+ abrir repositorio remoto con git pull *new-origin* master
